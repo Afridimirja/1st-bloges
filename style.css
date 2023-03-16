@@ -1,0 +1,16 @@
+*{  /* universal selector */
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+/*full body*/
+body{
+    display: block;
+    background-color: #f5f5dc;
+    word-spacing: normal;
+}
+li{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
